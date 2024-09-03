@@ -1,3 +1,4 @@
+![Uploading qrcode_i.ytimg.com.png…]()
 # What is Shadowsocks?
 
 Shadowsocks is a secure split proxy loosely based on [SOCKS5](https://tools.ietf.org/html/rfc1928).
